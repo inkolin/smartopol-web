@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-16T20:27:49Z",
+  "updated_at": "2026-04-16T21:37:30Z",
   "channels": {
-    "stable": "0.9.134"
+    "stable": "0.9.135"
   },
   "releases": [
     {
-      "version": "0.9.134",
-      "tag": "v0.9.134",
-      "published_at": "2026-04-16T20:27:49Z",
-      "artifacts": {"aarch64-apple-darwin":{"url":"https://github.com/inkolin/smartopol-agent/releases/download/v0.9.134/smartopol-aarch64-apple-darwin.tar.gz","sha256":"6e91257d1219529e00af1360165a29f781909ddb2ffe690f56ce9405a9f44932","size":13157311}}
+      "version": "0.9.135",
+      "tag": "v0.9.135",
+      "published_at": "2026-04-16T21:37:30Z",
+      "artifacts": {"aarch64-apple-darwin":{"url":"https://github.com/inkolin/smartopol-agent/releases/download/v0.9.135/smartopol-aarch64-apple-darwin.tar.gz","sha256":"a5bef29d01c2b2492b48db1c72775b856d0fbbf47ca68e8165e784e5e4d0b350","size":13403649}}
     }
   ]
 }
