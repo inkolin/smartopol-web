@@ -1,36 +1,15 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-04-16T12:00:00Z",
+  "updated_at": "2026-04-16T18:49:40Z",
   "channels": {
-    "stable": "0.9.124"
+    "stable": "0.9.132"
   },
   "releases": [
     {
-      "version": "0.9.124",
-      "tag": "v0.9.124",
-      "published_at": "2026-04-16T12:00:00Z",
-      "artifacts": {
-        "x86_64-unknown-linux-gnu": {
-          "url": "https://github.com/inkolin/smartopol-agent/releases/download/v0.9.124/smartopol-x86_64-unknown-linux-gnu.tar.gz",
-          "sha256": "",
-          "size": 0
-        },
-        "aarch64-unknown-linux-gnu": {
-          "url": "https://github.com/inkolin/smartopol-agent/releases/download/v0.9.124/smartopol-aarch64-unknown-linux-gnu.tar.gz",
-          "sha256": "",
-          "size": 0
-        },
-        "x86_64-apple-darwin": {
-          "url": "https://github.com/inkolin/smartopol-agent/releases/download/v0.9.124/smartopol-x86_64-apple-darwin.tar.gz",
-          "sha256": "",
-          "size": 0
-        },
-        "aarch64-apple-darwin": {
-          "url": "https://github.com/inkolin/smartopol-agent/releases/download/v0.9.124/smartopol-aarch64-apple-darwin.tar.gz",
-          "sha256": "a4911f45d555679277e4a29a46be94e53ee46108f7c18c2599347b7b04e25c4c",
-          "size": 19792272
-        }
-      }
+      "version": "0.9.132",
+      "tag": "v0.9.132",
+      "published_at": "2026-04-16T18:49:40Z",
+      "artifacts": {"x86_64-unknown-linux-gnu":{"url":"https://github.com/inkolin/smartopol-agent/releases/download/v0.9.132/smartopol-x86_64-unknown-linux-gnu.tar.gz","sha256":"7e42a9c1250e839897f96108708add2a50bc29d13a6145064c63130a8888deeb","size":14974263},"aarch64-unknown-linux-gnu":{"url":"https://github.com/inkolin/smartopol-agent/releases/download/v0.9.132/smartopol-aarch64-unknown-linux-gnu.tar.gz","sha256":"82f364929ff63e3b1f40137ebb35f864e1ff405f23f0547cde5c19ab3c398556","size":13933218},"x86_64-apple-darwin":{"url":"https://github.com/inkolin/smartopol-agent/releases/download/v0.9.132/smartopol-x86_64-apple-darwin.tar.gz","sha256":"482060444b417ff27ddf550fc022c813dd8fdc2edd621f73b776497c994dc7cc","size":14261313},"aarch64-apple-darwin":{"url":"https://github.com/inkolin/smartopol-agent/releases/download/v0.9.132/smartopol-aarch64-apple-darwin.tar.gz","sha256":"403f7dedbf98119df984b8990e242511a0bdf6ed39e4392288d4263a278aa2cc","size":13072031}}
     }
   ]
 }
